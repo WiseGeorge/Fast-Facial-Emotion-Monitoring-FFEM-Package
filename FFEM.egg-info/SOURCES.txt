@@ -1,0 +1,8 @@
+FFEM.py
+LICENSE
+README.md
+setup.py
+FFEM.egg-info/PKG-INFO
+FFEM.egg-info/SOURCES.txt
+FFEM.egg-info/dependency_links.txt
+FFEM.egg-info/top_level.txt
