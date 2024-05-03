@@ -23,6 +23,12 @@ This package is designed with user-friendliness in mind, making the complex task
 
 ![1714705423337](image/README/1714705423337.png)
 
+## Installing FFEM
+
+```
+pip install ffem
+```
+
 ## How to Cite:
 
 ```
