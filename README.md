@@ -5,7 +5,7 @@
 
 This package provides a simple and efficient way to perform Facial Emotion Recognition (FER). It leverages advanced techniques and algorithms to detect and classify emotions from facial expressions.
 
-![1714704837721](image/README/1714704837721.png)
+![FFEM](images\FFEM.gif)
 
 ## Main Function
 
@@ -21,7 +21,7 @@ This package is designed with user-friendliness in mind, making the complex task
 
 ## FFEM Pipeline
 
-![1714704853106](image/README/1714704853106.png)
+![FFEM](images\FFEM_Pipeline.png)
 
 ## How to Cite:
 
