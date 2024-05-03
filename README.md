@@ -1,8 +1,11 @@
 # Fast Facial Emotion Monitoring (FFEM)
+
 [![Downloads](https://static.pepy.tech/badge/ffem)](https://pepy.tech/project/ffem)
 [![Downloads](https://static.pepy.tech/badge/ffem/month)](https://pepy.tech/project/ffem)
 
 This package provides a simple and efficient way to perform Facial Emotion Recognition (FER). It leverages advanced techniques and algorithms to detect and classify emotions from facial expressions.
+
+![1714704837721](image/README/1714704837721.png)
 
 ## Main Function
 
@@ -16,7 +19,12 @@ This package provides a simple and efficient way to perform Facial Emotion Recog
 
 This package is designed with user-friendliness in mind, making the complex task of FER accessible and straightforward for users. Whether you’re a researcher, a developer, or someone interested in FER, this package can be a valuable tool for your projects.
 
+## FFEM Pipeline
+
+![1714704853106](image/README/1714704853106.png)
+
 ## How to Cite:
+
 ```
 @article{RCCI2806,
 	author = {Jorge Martínez Pazos y Arturo Orellana García y William Gómez Fernández y David Batard Lorenzo},
@@ -30,4 +38,3 @@ This package is designed with user-friendliness in mind, making the complex task
 	issn = {2227-1899},	url = {https://rcci.uci.cu/?journal=rcci&page=article&op=view&path%5B%5D=2806}
 }
 ```
-
