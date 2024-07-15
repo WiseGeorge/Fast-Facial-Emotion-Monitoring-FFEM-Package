@@ -9,12 +9,12 @@ This package provides a simple and efficient way to perform Facial Emotion Recog
 
 ## Main Function
 
-* `MonitorEmotion_From_Video(video_path: str | int, output_path:str) -> None`
+- `MonitorEmotion_From_Video(video_path: str | int, output_path:str) -> None`
   This function takes a video file or a webcam feed as input and performs FER. The results are saved to the specified output path.
 
 ## Main Class
 
-* `FaceEmotion_Detection()`
+- `FaceEmotion_Detection()`
   This class is the backbone of the FER process. It performs face detection and emotion recognition using DeepFace and MediaPipe. The `MonitorEmotion_From_Video` function utilizes this class to carry out its operations.
 
 This package is designed with user-friendliness in mind, making the complex task of FER accessible and straightforward for users. Whether you’re a researcher, a developer, or someone interested in FER, this package can be a valuable tool for your projects.
@@ -33,7 +33,7 @@ pip install ffem
 
 ```
 @article{RCCI2806,
-	author = {Jorge Martínez Pazos y Arturo Orellana García y William Gómez Fernández y David Batard Lorenzo},
+	author = {Jorge Martínez Pazos, William Gómez Fernández, Arturo Orellana García y David Batard Lorenzo},
 	title = {Monitoring Emotional Response During Mental Health Therapy},
 	journal = {Revista Cubana de Ciencias Informáticas},
 	volume = {17},
